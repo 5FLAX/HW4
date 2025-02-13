@@ -28,7 +28,7 @@ public class Main {
         System.out.println("Задание 4");
 
         int age1 = 20;
-        if (age1 >= 2 && age <= 6) {
+        if (age1 >= 2 && age1 <= 6) {
             System.out.println("Если возраст человека равен " + age1 + ", то ему нужно ходить в детский сад.");
         } else if (age1 >= 7 && age <= 17) {
             System.out.println("Если возраст человека равен " + age1 + ", то ему нужно ходить в школу.");
