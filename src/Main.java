@@ -40,6 +40,7 @@ public class Main {
             System.out.println("Если возраст человека равен " + age1 + ", то ему пока рано куда-либо ходить.");
         }
 
+
         System.out.println("Задание 5");
 
         int age2 = 10;
